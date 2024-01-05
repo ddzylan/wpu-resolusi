@@ -4,3 +4,4 @@ WPU RESOLUSI
 - bayar utang puasa
 - belajar buat utbk
 - belajar next js
+- belajar react js, jquery, javascript lanjutan untuk next js
